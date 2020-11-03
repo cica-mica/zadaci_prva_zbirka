@@ -1,3 +1,7 @@
+
+"""
+Napravite program koji ce ispisati je li srednja cifra unesenog trocifrenog broja parna, neparna ili nula.
+"""
 x = int(input('Unesite zeljeni broj '))
 
 srednja_cifra = (x//10)%10
