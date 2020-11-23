@@ -1,3 +1,7 @@
+"""
+Napravire program koji ce na zaslon ispisati drugi korijen najvece cifre unesenog trocifrenog broja.
+"""
+
 import math
 
 n= int(input('Unesite trocifren broj '))

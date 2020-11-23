@@ -1,3 +1,8 @@
+"""
+Napravite program koji korisniku omogucuje unosenje brojeva dok ne unese broj 0. Program treba ispisati koliko je korisnik upisao 
+pozitivnih a koliko negativnih brojeva.
+"""
+
 def broj_poz_neg():
     brojac_pozitivnih = 0
     brojac_negativnih = 0
