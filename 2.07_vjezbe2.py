@@ -15,4 +15,8 @@ for i in range(broj_cifara):
     niz_cifara.append(a)
 
 niz_cifara.sort()
-print(niz_cifara)
+
+prvi_broj = int(niz_cifara[0])
+drugi_broj_niz = niz_cifara[1:a]
+
+print(prvi_broj, drugi_broj_niz)
